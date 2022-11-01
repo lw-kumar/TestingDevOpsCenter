@@ -557,30 +557,8 @@
         <enabled>true</enabled>
         <name>NewReportBuilder</name>
     </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>OutboundMigrationToolsUser</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>Packaging2</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>Packaging2Delete</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>PrivacyDataAccess</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>PublishPackaging</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>RemoveDirectMessageMembers</name>
-    </userPermissions>
+    
+   
     <userPermissions>
         <enabled>true</enabled>
         <name>ResetPasswords</name>
@@ -609,18 +587,12 @@
         <enabled>true</enabled>
         <name>SendCustomNotifications</name>
     </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>SendSitRequests</name>
-    </userPermissions>
+   
     <userPermissions>
         <enabled>true</enabled>
         <name>ShareInternalArticles</name>
     </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ShowCompanyNameAsUserBadge</name>
-    </userPermissions>
+   
     <userPermissions>
         <enabled>true</enabled>
         <name>SolutionImport</name>
